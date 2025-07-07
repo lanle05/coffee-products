@@ -5,7 +5,7 @@ interface CategoryFilterProps {
   }
   
 const CategoryFilter: React.FC<CategoryFilterProps> = ({ categories, selected, onChange }) => {
-    const safeCategories = categories || [];
+    // const safeCategories = categories || [];
     return (
       
         <div className="bg-white">
