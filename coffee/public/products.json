@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cappucino",
+    "seller": "Minden Bakery",
+    "price": "$8",
+    "image": "/images/cappucino.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Coffee",
+    "dietary": "Gluten-free"
+  },
+  {
+    "id": 2,
+    "name": "Matcha Latte",
+    "seller": "Minden Bakery",
+    "price": "$10",
+    "image": "/images/matcha-latte.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Coffee",
+    "dietary": "Nut free"
+  },
+  {
+    "id": 3,
+    "name": "Golden Latte",
+    "seller": "Minden Bakery",
+    "price": "$8",
+    "image": "/images/golden-latte.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Coffee",
+    "dietary": "Gluten-free"
+  },
+  {
+    "id": 4,
+    "name": "Hot Chocolate",
+    "seller": "Minden Bakery",
+    "price": "$12",
+    "image": "/images/hot-chocolate.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Beverages",
+    "dietary": "Nut free"
+  },
+  {
+    "id": 5,
+    "name": "Iced Latte",
+    "seller": "Minden Bakery",
+    "price": "$12",
+    "image": "/images/iced-latte.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Coffee",
+    "dietary": "Gluten-free"
+  },
+  {
+    "id": 6,
+    "name": "Plain Croissant",
+    "seller": "Minden Bakery",
+    "price": "$20 / Box (8 pieces)",
+    "image": "/images/plain-croissants.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Baked Goods",
+    "dietary": "Eco-friendly"
+  },
+  {
+    "id": 7,
+    "name": "French Macaron",
+    "seller": "Minden Bakery",
+    "price": "$30 / Box (12 pieces)",
+    "image": "/images/french-macarons.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Baked Goods",
+    "dietary": "Nut free"
+  },
+  {
+    "id": 8,
+    "name": "Original Blend Coffee",
+    "seller": "Minden Bakery",
+    "price": "$12.99 / Pack",
+    "image": "/images/original-blend-coffee.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Coffee",
+    "dietary": "Gluten-free"
+  },
+  {
+    "id": 9,
+    "name": "Energy Cookie",
+    "seller": "Minden Bakery",
+    "price": "$28 / Box (6 pieces)",
+    "image": "/images/energy-cookie.png",
+    "pimage": "/images/minden-logo.png",
+    "category": "Baked Goods",
+    "dietary": "Eco-friendly"
+  }
+]
